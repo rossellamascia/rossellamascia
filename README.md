@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rossellamascia
 - 👀 I’m interested in frontend development
-- 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on qwik
 - 📫 How to reach me @_redross_
 
 <!---
